@@ -2,3 +2,4 @@
 /caption_generator/Flicker8k_Dataset
 /caption_generator/__MACOSX
 # /caption_generator/__MACOSX/Flicker8k_Dataset
+/caption_generator/features.pkl
